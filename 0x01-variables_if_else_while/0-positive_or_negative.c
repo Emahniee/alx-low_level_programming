@@ -4,7 +4,7 @@
 
 /**
  * main - Prints a random number and states whether
- * it is positive, negetive, or zero.
+ *	   it is positive, negetive, or zero.
  *
  * Return: Always 0.
  */
@@ -17,7 +17,7 @@ int main(void)
 
  if (n > 1)
  printf("%d is positive\n", n);
- else if (n > 0)
+ else if (n < 0)
  printf("%d is negetive\n", n);
  else 
 
