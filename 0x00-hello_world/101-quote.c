@@ -7,7 +7,7 @@
  *  Description: Prints a sentence with special
  *  characters and a new line.
  *
- *  Return - Always 0 (Success)
+ *  Return - Always 1.
  */
 int main(void)
 {
