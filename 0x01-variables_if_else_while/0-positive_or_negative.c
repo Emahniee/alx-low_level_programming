@@ -5,7 +5,8 @@
 /**
  * main - entry point
  *
- * Description: Prints a random number and states whether it is positive, negetive, or zero.
+ * Description: Prints a random number and states whether
+ * it is positive, negetive, or zero.
  *
  * Return: Always 0.
  */
