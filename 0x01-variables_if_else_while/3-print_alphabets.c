@@ -5,7 +5,7 @@
  * Description: Print lower and upper alphabets on the same line
  * Return: 0
  */
-int main(void);
+int main(void)
 {
 int c;
 
