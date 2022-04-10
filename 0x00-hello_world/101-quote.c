@@ -2,12 +2,12 @@
 #include <unistd.h>
 
 /**
- *  main - entry point
+ *  main - Entry point
  *
  *  Description: Prints a sentence with special
  *  characters and a new line.
  *
- *  Return - Always 1.
+ *  Return - Always 0 (Success)
  */
 int main(void)
 {
