@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Description: Print number 0 to 9 on one line 
+ * Description: Print number 0 to 9 on one line
  *
  * Return: 0
  */
