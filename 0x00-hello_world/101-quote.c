@@ -4,6 +4,9 @@
 /**
  *  main - entry point
  *
+ *  Description: Prints a sentence with special
+ *  characters and a new line.
+ *
  *  Return - Always 0 (Success)
  */
 int main(void)
