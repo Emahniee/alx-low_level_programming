@@ -6,10 +6,11 @@
  * Description: Print all possible combinations of two  two-digit numbers,
  *  ranging from 0-99, separated by a comma foolwed by a space.
  *
+ * Return: Always 0.
  */
 int main(void)
 {
-int main1, main2;
+int num1, num2;
 
 for (num1 = 0; num1 <= 99; num1++)
 {
