@@ -4,6 +4,8 @@
  * Print_times_table - prints the times table of the imput,
  * starting with 0.
  *
+ * Function: Prints the times table
+ *
  * @n: The value of the times table to be printed.
  */
 void print_times_table(int n)
