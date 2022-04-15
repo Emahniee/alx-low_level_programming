@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 /** 
- * main - entry point
- *
- * Description: prime factors of 612852475143
+ * main - prime factors of 612852475143
  *
  * Return: int
  */
