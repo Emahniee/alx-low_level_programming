@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_square - print hashtags to look like a square
+ * print_square - prints hashtags to look like a square
  * @size: limit
  *
  * Return: void
