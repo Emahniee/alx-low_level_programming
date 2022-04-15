@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * print_triangle - prints triangles
+ * print_triangle - prints triangle
  * @size: limit
  *
  * Return: void
  */
 
-void print_triangles(int size)
+void print_triangle(int size)
 {
 int i, j;
 
