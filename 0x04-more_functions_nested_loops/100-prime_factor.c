@@ -10,7 +10,7 @@ int main(void)
 unsigned long n, i, max;
 
 n = 6128524755142;
-max = 1
+max = 1;
 
 	for (i = 3; i <= n; i +=2)
 	{
