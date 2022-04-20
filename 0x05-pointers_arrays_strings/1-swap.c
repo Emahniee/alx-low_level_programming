@@ -1,6 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 
+swap_int(int *, int *)
+
 /**
  * main - check the code
  *
