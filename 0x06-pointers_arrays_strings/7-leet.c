@@ -18,11 +18,11 @@ j = 0;
 while (c[j] != '\0')
 {
 if (str[i] == c[j])
-																					{
-																					str[i] = n[j];
-																					}
-																					j++;
-																					}
+{
+str[i] = n[j];
+}
+j++;
+}
 i++;
 }
 return (str);
