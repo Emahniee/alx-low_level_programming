@@ -8,14 +8,14 @@
  */
 size_t list_len(const list_t *h)
 {
-struct const list_t* current = h;
-int count = 0;
+const list_t *temp;
+unsigned int count = 0;
 
-while (current != NULL)
+temp = h;
+while (temp)
 {
-	count++;
-	current = current -> next;
+count++;
+temp = temp->next;
 }
-
 return (count);
 }
