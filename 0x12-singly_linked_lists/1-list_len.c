@@ -7,13 +7,14 @@
  * Return: Number of elements
  */
 size_t list_len(const list_t *h)
-{
+
+struct list_t* current = h;
 int count = 0;
 
-while (h != NULL)
+while (current != NULL)
 {
 	count++;
-	h = h -> next;
+	current = current -> next;
 }
 
 return (count);
