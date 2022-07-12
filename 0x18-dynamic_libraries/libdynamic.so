@@ -1,0 +1,27 @@
+ _ITM_deregisterTMCloneTable _ITM_registerTMCloneTable __cxa_finalize _isupper _memset _puts_recursion _putchar _strcat _strlen is_numerical _isdigit _memcpy _strncat _strchr _strlen_recursion _strncpy _islower _strcmp _strspn _isalpha main _strpbrk _strstr puts2 puts_half _strcpy write libc.so.6 GLIBC_2.2.5
+ "Programming is like building a multilingual puzzle
+ GCC: (Arch Linux 9.3.0-1) 9.3.0
+ 0-isupper.c
+ 0-memset.c
+ /usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include /usr/include/bits /usr/include/bits/types /usr/include 0-puts_recursion.c stddef.h types.h struct_FILE.h FILE.h stdio.h sys_errlist.h
+ 0-strcat.c
+ 100-atoi.c
+ 1-isdigit.c
+ 1-memcpy.c
+ 1-strncat.c
+ 2-strchr.c
+ 2-strlen.c
+ 2-strlen_recursion.c
+ 2-strncpy.c
+ 3-islower.c
+ 3-strcmp.c
+ /usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include /usr/include/bits /usr/include/bits/types /usr/include 3-strspn.c stddef.h types.h struct_FILE.h FILE.h stdio.h sys_errlist.h
+ 4-isalpha.c
+ /usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include /usr/include/bits /usr/include/bits/types /usr/include stddef.h types.h struct_FILE.h FILE.h stdio.h sys_errlist.h
+ 4-strpbrk.c
+ 5-strstr.c
+ 7-puts_half.c
+ 9-strcpy.c
+ /usr/include /usr/include/bits _putchar.c unistd.h getopt_core.h
+ 0-isupper.c _isupper /home/davixcky/.development/holberton-school/week-0/holbertonschool-low_level_programming/0x18-dynamic_libraries GNU C17 9.3.0 -mtune=generic -march=x86-64 -g -fPIC _memset 0-memset.c _IO_buf_end _old_offset sys_nerr _IO_save_end short int size_t _IO_write_ptr _flags _IO_buf_base _markers _IO_read_end _freeres_buf 0-puts_recursion.c stderr _cur_column unsigned char _puts_recursion _IO_marker _shortbuf _IO_write_base _unused2 _IO_read_ptr _IO_codecvt short unsigned int _freeres_list _IO_write_end _chain _IO_wide_data _IO_backup_base stdin _flags2 _IO_read_base _vtable_offset _IO_save_base sys_errlist _fileno stdout 0-strcat.c l_dest _strcat number 100-atoi.c is_numerical sign 1-isdigit.c _isdigit _memcpy 1-memcpy.c 1-strncat.c _strncat 2-strchr.c _strchr 2-strlen.c _strlen _strlen_recursion 2-strlen_recursion.c _strncpy 2-strncpy.c 3-islower.c _islower _strcmp 3-strcmp.c 3-strspn.c _strspn accept 4-isalpha.c _isalpha main _strpbrk 4-strpbrk.c long long int 5-strstr.c needle_size long long unsigned int _strstr haystack needle letter 6-puts2.c puts2 puts_half 7-puts_half.c _strcpy 9-strcpy.c optopt opterr __environ _putchar optarg optind _putchar.c
+ crtstuff.c deregister_tm_clones __do_global_dtors_aux completed.7393 __do_global_dtors_aux_fini_array_entry frame_dummy __frame_dummy_init_array_entry 0-isupper.c 0-memset.c 0-puts_recursion.c _puts_recursion.localalias 0-strcat.c 100-atoi.c 1-isdigit.c 1-memcpy.c 1-strncat.c 2-strchr.c 2-strlen.c 2-strlen_recursion.c _strlen_recursion.localalias 2-strncpy.c 3-islower.c 3-strcmp.c 3-strspn.c 4-isalpha.c 4-strpbrk.c 5-strstr.c 6-puts2.c 7-puts_half.c 9-strcpy.c _putchar.c __dso_handle _DYNAMIC __GNU_EH_FRAME_HDR _GLOBAL_OFFSET_TABLE_ _islower is_numerical _strchr _memcpy _ITM_deregisterTMCloneTable puts@@GLIBC_2.2.5 _isupper _strstr write@@GLIBC_2.2.5 puts_half _strcmp _strlen _puts_recursion _strcpy _strpbrk _strncat _strspn main _strcat
